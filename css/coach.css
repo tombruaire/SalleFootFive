@@ -1,0 +1,55 @@
+/*** CODE CSS ***/
+
+/* BOUTON ANNULER (reset) & BOUTON AJOUTER (submit) */
+input[type="reset"], input[type="submit"] {
+    border: 1px solid black;
+    font: 12pt "Comic Sans Ms", Halveltica, Arial, sans-serif;
+    cursor: pointer;
+    background-color: black;
+    color: aqua;
+    border-radius: 5px;
+}
+
+input[type="text"] {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    font : 12pt "Comic Sans MS", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    font : 28pt "FunSized", Helvetica, Arial, sans-serif;
+    color: yellow;
+}
+
+h2 {
+    font : 18pt "FunSized", Helvetica, Arial, sans-serif;
+    color: #7FFF00;
+}
+
+h3 {
+    font : 14pt "FunSized", Helvetica, Arial, sans-serif;
+    color: #FF6347;
+    letter-spacing: 1px;
+}
+
+#ajout {
+    font : 11pt "Comic Sans MS", Helvetica, Arial, sans-serif;
+    color: white;
+    letter-spacing: 2px;
+}
+
+footer {
+    margin-top: 25%;
+}
+
+
+#tableau {
+    text-align: center; 
+    background-color: black; 
+    width: 60%; 
+    font: 14pt 'Comic Sans MS', Helvetica, Arial, sans-serif;
+    color: aqua;
+    border-color: black;
+}
